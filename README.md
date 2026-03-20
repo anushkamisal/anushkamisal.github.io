@@ -1,2 +1,2 @@
-# anushkaa!
-Some bits and pieces of me in one place
+# About Me
+Bits and pieces of me, all in one place.
