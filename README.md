@@ -1,2 +1,2 @@
 # anushkamisal.github.io
-My personal portfolio — projects, skills, and experiments, all in one place.
+Some bits and pieces of me in one place
